@@ -8,5 +8,9 @@ function theBeatlesPlay(musicians,instruments) {
     new_array.push(musicians[i] +" plays " + instruments[i]);
   }
   
-  return new_array
+  return new_array;
+}
+
+function johnLennonFacts() {
+  
 }
