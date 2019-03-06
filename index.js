@@ -25,3 +25,7 @@ function johnLennonFacts(facts) {
   return new_facts
   
 }
+
+function iLoveTheBeatles(num) {
+  
+}
