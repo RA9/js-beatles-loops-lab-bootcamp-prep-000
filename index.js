@@ -1,7 +1,7 @@
 'use strict';
 // add solution here
 
-function theBeatlesPlay(musicians,instrunents) {
+function theBeatlesPlay(musicians,instruments) {
   let new_array = []
   
   for(let i = 0; i < musicians.length; i++) {
