@@ -27,5 +27,11 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(num) {
+  let new_nums = []
   
+  i = 0
+  
+  do {
+    
+  }
 }
