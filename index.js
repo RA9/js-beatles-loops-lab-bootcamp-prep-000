@@ -31,7 +31,7 @@ function iLoveTheBeatles(num) {
   
   
   do {
-    new_nums.push("I love the Beatlles!")
+    new_nums.push("I love the Beatles!")
     num++
   } while (num < 15)
   
